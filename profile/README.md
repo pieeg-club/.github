@@ -1,9 +1,9 @@
 PiEEG-Club is a place, where researchers, coders, and any neuroscience enthusiast can share some scripts for PiEEG devices. Make neuroscience available for all
 Please feel free add your scripts to this repository  
 
-Wearable BCI  
+Wearable BCI - ironbci  
 BCI shield for RaspberryPi, Arduino, Jetson Nano  
-Active electrodes  
+Active electrodes - bioron     
 Caps, cables, and electrodes  
 SDK, mobile application, software....  
 
