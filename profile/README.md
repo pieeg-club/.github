@@ -8,6 +8,8 @@ Active electrodes - bioron
 Caps, cables, and electrodes  
 SDK, mobile application, software....  
 
+Now manuals are here in PiEEG [Doc](https://pieeg.com/docs/docs/)   
+
 PiEEG [Manual](https://colab.research.google.com/drive/1xW6fwzVdLH83zHoorjeWai6SdZoOanfA#scrollTo=9bxgisvWfs5f)    
 PiEEG [Manual for quick start ](https://github.com/pieeg-club/PiEEG/blob/main/Manual.%20Conenction%20and%20start%20-%20PiEEG1.pdf)    
 PiEEG SDK [video maual](https://youtu.be/9jLyN2zRXdU)   
