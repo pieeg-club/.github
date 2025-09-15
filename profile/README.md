@@ -16,4 +16,6 @@ PiEEG SDK [video maual](https://youtu.be/9jLyN2zRXdU)
 Practical Python Signal Processing [course in Udemy](https://www.udemy.com/course/signal-processing-python-for-eeg/?referralCode=2D537B5EAD7114C43DE2) createdted with  PiEEG       
           Machine Learning and DL, Chatgpt etc . all courses are free for PiEEG users.         
 https://pieeg.com/  
+Support Via PiEEG [Discord](https://discord.gg/RnCdpwbywx)      
+
 Contact: pieeg@pieeg.com  
