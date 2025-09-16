@@ -3,7 +3,7 @@ PiEEG-Club is a place, where researchers, coders, and any neuroscience enthusias
 Please feel free add your scripts to this repository  
 
 Wearable BCI - ironbci  
-BCI shield for RaspberryPi, Arduino, Jetson Nano  
+BCI shield for RaspberryPi, Arduino, Jetson Nano and STM32     
 Active electrodes - bioron     
 Caps, cables, and electrodes  
 SDK, mobile application, software....  
