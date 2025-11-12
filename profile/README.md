@@ -15,6 +15,7 @@ PiEEG [Manual for quick start ](https://github.com/pieeg-club/PiEEG/blob/main/Ma
 PiEEG SDK [video maual](https://youtu.be/9jLyN2zRXdU)   
 Free [courses in Udemy](https://www.udemy.com/course/signal-processing-python-for-eeg/?referralCode=2D537B5EAD7114C43DE2) for PiEEG users  
 ML and EEG, DL and EEG, chatgpt and EEG, etc    
+  
 https://pieeg.com/  
 Support Via PiEEG [Discord](https://discord.gg/RnCdpwbywx)      
 
