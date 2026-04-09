@@ -10,6 +10,7 @@ SDK, mobile application, software....
 
 Now manuals are here in PiEEG [Doc](https://pieeg.com/docs/docs/)   
 PiEEG - Server, [Software for PiEEG, PiEEG-16, ironbci, and MicroBCI](https://github.com/pieeg-club/PiEEG-server)    
+PiEEG Server [Docs](https://pieeg-server-doc.vercel.app/) 
 
 PiEEG SDK [video manual](https://youtu.be/9jLyN2zRXdU)     
 Free [courses in Udemy](https://www.udemy.com/user/ildar-rakhmatulin/) for PiEEG users    
