@@ -8,7 +8,7 @@ Active electrodes - bioron
 Caps, cables, and electrodes  
 SDK, mobile application, software....  
 
-Now manuals are here in PiEEG [Doc](https://pieeg.com/docs/docs/)   
+PiEEG [Doc](https://pieeg.com/docs/docs/)   
 PiEEG - Server, [Software for PiEEG, PiEEG-16, ironbci, and MicroBCI](https://github.com/pieeg-club/PiEEG-server)    
 PiEEG Server [Docs](https://pieeg-server-doc.vercel.app/) 
 
