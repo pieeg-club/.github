@@ -1,4 +1,4 @@
-Let's move neurotechnology forward together. Feel free to contribute and participate in the discussion, don't judge, and be open.
+Let's move neurotechnology forward together. Feel free to contribute and participate in the discussion, don't judge, and be open.  
 PiEEG [Doc](https://docs.pieeg.com/)   
 PiEEG - Server, [Software for PiEEG, PiEEG-16, ironbci, and MicroBCI](https://github.com/pieeg-club/PiEEG-server)      
 
